@@ -1,0 +1,20 @@
+#contato iframe
+{
+    width: 100%;
+
+}
+.filmesHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmesHead i
+{
+    float: right;
+}
+.filmesText span
+{
+color: orange;
+}
